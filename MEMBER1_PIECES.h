@@ -1,4 +1,4 @@
-
+IMplemented pawan logic 
 #ifndef MEMBER1_PIECES_H    
 #define MEMBER1_PIECES_H
 
